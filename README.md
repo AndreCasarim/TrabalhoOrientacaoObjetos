@@ -1,2 +1,2 @@
 # Trabalho Orientacao Objetos
- Repositorio para Trabalho
+ Repositório para Trabalho
